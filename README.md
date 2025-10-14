@@ -11,10 +11,10 @@ All work was done using open-source tools — Icarus Verilog, GTKWave, Ngspice, 
 
 | Week | Topic | GitHub Repository | Description | Status |
 |------|--------|------------------|--------------|---------|
-| **Week 0** | Tool Installation & Environment Setup | [GitHub Link](https://github.com/yourusername/week0_repo) | Installed and configured all open-source tools (Icarus Verilog, GTKWave, Ngspice, Yosys, OpenSTA, OpenLane, Magic, KLayout, Sky130 PDK). Verified environment on Ubuntu. | ✅ Completed |
-| **Week 1** | RISC-V SoC Overview | [GitHub Link](https://github.com/yourusername/week1_repo) | Learned RISC-V ISA basics, SoC structure, and setup of the reference design environment. | ✅ Completed |
-| **Week 2** | Verilog RTL Design | [GitHub Link](https://github.com/yourusername/week2_repo) | Designed and simulated Verilog modules using **Icarus Verilog** and **GTKWave**. Implemented simple logic blocks. | ✅ Completed |
-| **Week 3** | Testbench & Functional Verification | [GitHub Link](https://github.com/yourusername/week3_repo) | Created behavioral testbenches and verified RTL design functionality using **GTKWave**. | ✅ Completed |
+| **Week 0** | Tool Installation & Environment Setup | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_0_RISC_V_SoC_Tapeout_Program_VSD) | Installed and configured all open-source tools (Icarus Verilog, GTKWave, Ngspice, Yosys, OpenSTA, OpenLane, Magic, KLayout, Sky130 PDK). Verified environment on Ubuntu. | ✅ Completed |
+| **Week 1** | Digital Design Flow: RTL, Simulation & Synthesis | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_1_RISC_V_SoC_Tapeout_Program_VSD) |  Designed Verilog RTL modules (combinational & sequential logic),Simulated using Icarus Verilog and analyzed waveforms in GTKWave,Synthesized the RTL to a gate-level netlist with Yosys (targeting a standard cell library) | ✅ Completed |
+| **Week 2** | Pre/Post-Synthesis Simulation & Synthesis of VSDBabySoC | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_2_RISC_V_SoC_Tapeout_Program_VSD) |Performed pre-synthesis RTL simulation, synthesized the design using Yosys, and verified functionality with post-synthesis gate-level simulation of VSDBabySoC. | ✅ Completed |
+| **Week 3** | Testbench & Functional Verification | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_3_RISC_V_SoC_Tapeout_Program_VSD) | Created behavioral testbenches and verified RTL design functionality using **GTKWave**. | ✅ Completed |
 | **Week 4** | Ngspice Analog Simulation | [GitHub Link](https://github.com/yourusername/week4_repo) | Simulated analog/mixed-signal circuits (inverter, op-amp) using **Ngspice** with Sky130 device models. | ✅ Completed |
 | **Week 5** | RTL to Gate-level Synthesis | — | _Pending Update_ | ⏳ In Progress |
 | **Week 6** | Static Timing Analysis | — | _Pending Update_ | ⏳ Pending |
