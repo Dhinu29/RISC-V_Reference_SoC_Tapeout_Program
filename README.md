@@ -16,12 +16,12 @@ All work was done using open-source tools — Icarus Verilog, GTKWave, Ngspice, 
 | **Week 2** | Pre/Post-Synthesis Simulation & Synthesis of VSDBabySoC | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_2_RISC_V_SoC_Tapeout_Program_VSD) |Performed pre-synthesis RTL simulation, synthesized the design using Yosys, and verified functionality with post-synthesis gate-level simulation of VSDBabySoC. | ✅ Completed |
 | **Week 3** | Testbench & Functional Verification | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_3_RISC_V_SoC_Tapeout_Program_VSD) | Created behavioral testbenches and verified RTL design functionality using **GTKWave**. | ✅ Completed |
 | **Week 4** | Ngspice Analog Simulation | [GitHub Link](https://github.com/yourusername/week4_repo) | Simulated analog/mixed-signal circuits (inverter, op-amp) using **Ngspice** with Sky130 device models. | ✅ Completed |
-| **Week 5** | RTL to Gate-level Synthesis | — | _Pending Update_ | ⏳ In Progress |
-| **Week 6** | Static Timing Analysis | — | _Pending Update_ | ⏳ Pending |
-| **Week 7** | Floorplanning & Placement | — | _Pending Update_ | ⏳ Pending |
-| **Week 8** | Clock Tree Synthesis & Routing | — | _Pending Update_ | ⏳ Pending |
-| **Week 9** | DRC/LVS Checks | — | _Pending Update_ | ⏳ Pending |
-| **Week 10** | Final GDSII & Tapeout Report | — | _Pending Update_ | ⏳ Pending |
+| **Week 5** | 🔜Coming soon | — | _Pending Update_ | ⏳ In Progress |
+| **Week 6** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
+| **Week 7** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
+| **Week 8** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
+| **Week 9** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
+| **Week 10** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
 ---
 
 ## 🧩 Tools Used
