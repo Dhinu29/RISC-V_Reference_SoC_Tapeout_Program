@@ -16,7 +16,7 @@ All work was done using open-source tools — Icarus Verilog, GTKWave, Ngspice, 
 | **Week 2** | Pre/Post-Synthesis Simulation & Synthesis of VSDBabySoC | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_2_RISC_V_SoC_Tapeout_Program_VSD) |Performed pre-synthesis RTL simulation, synthesized the design using Yosys, and verified functionality with post-synthesis gate-level simulation of VSDBabySoC. | ✅ Completed |
 | **Week 3** | Static Timing Analysis (STA) Fundamentals | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_3_RISC_V_SoC_Tapeout_Program_VSD) | Performed Static Timing Analysis using OpenSTA to check timing of the synthesized VSDBabySoC netlist and ensured design meets constraints. | ✅ Completed |
 | **Week 4** | Ngspice Analog Simulation | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_4_RISC_V_SoC_Tapeout_Program_VSD) | Simulated analog/mixed-signal circuits (inverter, op-amp) using **Ngspice** with Sky130 device models. | ✅ Completed |
-| **Week 5** | 🔜Coming soon | — | _Pending Update_ | ⏳ In Progress |
+| **Week 5** | OpenROAD Installation | — | [GitHub Link](https://github.com/Dhinu29/P_DINESH_WEEK_5_RISC_V_SoC_Tapeout_Program_VSD) | ⏳ In Progress |
 | **Week 6** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
 | **Week 7** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
 | **Week 8** | 🔜Coming soon | — | _Pending Update_ | ⏳ Pending |
